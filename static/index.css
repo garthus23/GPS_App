@@ -1,4 +1,10 @@
+body {
+    text-align: center;
+}
+
+
 #map {
-    height: 500px;
-    width: 500px;
+    margin: 0 auto;
+    height: 600px;
+    width: 800px;
 }
